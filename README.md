@@ -1,7 +1,7 @@
-#Todo App
+# Todo App
 Simple project built with React JS and JSON Server.
 
-###To use it:
+### To use it:
 
 1. Clone repo and run `npm install` to install packages.
 2. Run `npm run server` to initialize the server.
